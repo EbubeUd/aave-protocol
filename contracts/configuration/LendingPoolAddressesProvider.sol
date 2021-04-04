@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
+import "https://github.com/ConsenSysMesh/openzeppelin-solidity/blob/master/contracts/ownership/Ownable.sol";
 import "../libraries/openzeppelin-upgradeability/InitializableAdminUpgradeabilityProxy.sol";
 
 import "./AddressStorage.sol";
